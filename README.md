@@ -36,7 +36,7 @@ The extracted data is displayed on a simple web interface built using Flask.
 ![Resume Parsing UI](https://your-demo-screenshot-link.png)
 _(Example screenshot of the web interface)_
 
-🎥 **Live Demo** (If hosted): [Click Here]((https://resume-parsing-using-nlp-1.onrender.com))
+🎥 **Live Demo** (If hosted): [Click Here](https://resume-parsing-using-nlp-1.onrender.com)
 
 ## ⚡ Installation
 ### Prerequisites
