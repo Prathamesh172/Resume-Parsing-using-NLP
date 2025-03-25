@@ -33,10 +33,8 @@ The extracted data is displayed on a simple web interface built using Flask.
 - **HTML, CSS** (Basic UI for file upload and result display)
 
 ## 📷 Demo
-![Resume Parsing UI](https://your-demo-screenshot-link.png)
-_(Example screenshot of the web interface)_
 
-🎥 **Live Demo** (If hosted): [Click Here](https://resume-parsing-using-nlp-1.onrender.com)
+🎥 **Live Demo**: [Click Here](https://resume-parsing-using-nlp-1.onrender.com)
 
 ## ⚡ Installation
 ### Prerequisites
@@ -60,18 +58,6 @@ http://127.0.0.1:5000/
 3. The extracted information is displayed on the web UI.
 4. The uploaded file is deleted immediately after processing.
 
-## 📂 File Structure
-```
-resume-parser/
-│── app.py             # Flask application
-│── parser.py          # Resume parsing logic
-│── templates/
-│   ├── index.html     # Web UI template
-│── static/
-│   ├── styles.css     # CSS for UI
-│── requirements.txt   # Required dependencies
-│── README.md          # Project documentation
-```
 
 ## 🚀 Future Improvements
 - Enhance skill extraction using Named Entity Recognition (NER).
