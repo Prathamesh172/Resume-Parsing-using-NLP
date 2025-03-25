@@ -1,0 +1,33 @@
+John Doe
+📍 123 Main Street, New York, NY
+📧 johndoe@email.com | 📞 +1 (123) 456-7890
+🔗 LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+Professional Summary
+Data Scientist with 5+ years of experience in machine learning, statistical analysis, and data visualization. Skilled in Python, SQL, and cloud computing. Passionate about solving complex business problems with data-driven solutions.
+
+Skills
+✔ Machine Learning (Scikit-learn, TensorFlow, PyTorch)
+✔ Data Analysis & Visualization (Pandas, Matplotlib, Seaborn, Tableau)
+✔ Big Data (Hadoop, Spark)
+✔ Databases (SQL, MongoDB)
+✔ Cloud Computing (AWS, GCP, Azure)
+
+Work Experience
+Data Scientist | XYZ Tech Solutions | Jan 2020 – Present
+
+Developed predictive models for customer churn, reducing churn rate by 15%.
+Designed and implemented an AI-based recommendation system, increasing user engagement by 30%.
+Automated data pipelines, improving data processing speed by 40%.
+Data Analyst | ABC Corp | June 2017 – Dec 2019
+
+Conducted exploratory data analysis (EDA) on large datasets to identify business trends.
+Built interactive dashboards in Tableau, leading to a 20% improvement in decision-making speed.
+Improved data accuracy by 25% by optimizing SQL queries and cleaning datasets.
+Education
+Master of Science in Data Science | University of California, Berkeley | 2017
+
+Certifications
+Google Cloud Professional Data Engineer
+AWS Certified Machine Learning – Specialty
+This should be recognized as a "Data Scientist" resume by your model. Test it and let me know what prediction you get! 🚀
